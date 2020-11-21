@@ -1,0 +1,13 @@
+
+
+
+body {
+    background:url(img/clasicos2.jpg) rgb(243, 240, 240);
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+    color:rgb(32, 31, 31);
+}
+.main {
+	text-align: center;
+}
